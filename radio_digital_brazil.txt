@@ -1,0 +1,110 @@
+
+    
+    Defendemos a adoção do padrão DRM como base para o desenvolvimento do SBRD, incluindo o Middleware GINGA como padrão de interatividade, criando assim o primeiro sistema de rádio digital interoperável com a tv digital da região.
+    
+    Recomenda-se que os receptores digitais do SBRD estejam aptos a receber todas as faixas de frequência.
+    
+    
+
+ 
+ESC 2 Espectro, Sociedade e Comunicação
+=======================================
+
+https://pad.sarava.org/p/ESC2_GT
+
+Redação aberta de cartas durante o http://www.conferences.telemidia.puc-rio.br/esc2013/
+
+Projeto de financiamento de pesquisa em rádio digital
+=====================================================
+
+*Abarcando a diversidade de atores/as através do uso do espectro sem restrição de faixas para pesquisa.
+*Possibilitando o desenvolvimento de novos padrões (por exemplo redes mesh) e usos mais experimentais.
+*Possuindo múltiplas faixas sem necessidade de obtenção desse tipo de permissão em cada banda do espectro.
+*Espectro Livre (experimentação e liberdade de expressão) combinado com o Open Spectrum (associado à inovação mercadológica).
+*Criação de uma rede pública de pesquisa multidisciplinar.
+
+Lei de meios
+============
+
+*Que evite a barreira de entrada, como por exemplo a imposição de parâmetros técnicos mínimos (caso da Argentina).
+*Que seja inclusivo e não marginalizante, incluindo por exemplo imigrantes e estrangeiros como atores/as.
+*Que permita a regulação em diversas instâncias (estadual, municipal), ao invés de ser uma regulação federal única.
+*Estabelecedo a complementaridade de uso do espectro sem confundir a liberdade de expressão com um sistema de outorgas.
+
+Carta aberta ao Conselho Consultivo do Rádio Digital
+====================================================
+
+*Para que a Portaria 290/2010 (em anexo) seja respeitada e levada em consideração.
+*Utilizar o Ginga como o sistema de interatividade do rádio digital e interoperável com a tv digital.
+* Desconsiderar o HD Radio como um possível padrão de rádio a ser adotado no Brasil porque ele não atende à Portaria 290/2010:
+    - O codec de áudio é segredo industrial
+    - Não otimiza o uso do espectro
+    - Não funciona em todas as faixas de frequência
+    - Não democratiza o acesso aos meios de comunicação
+    - Exige uma licença para uso, e para fabricação: monopólio de uma empresa
+    
+    O ESC2 entende que não há sentido em se realizar testes com um padrão que não atende à Portaria 290/2010.
+    
+*Permitir a multiprogramação. [And be more spectrum efficient to offer more radios the possibility to be in the air]
+*Adoção de tecnologias abertas sendo o DRM a base do SBRD para incorporação de melhorias desenvolvidas no Brasil, excluindo sempre que possível tecnologias cobertas por royalties que possuam sobreposição de recursos já implementados pelo Ginga; que permitam o desenvolvimento local; que estimulem a colaboração com outros países; e outros objetivos que devem ser explicitados.
+*Que os receptores suportem as tecnologias definidas pela norma.
+*Que os receptores funcionem em todas as bandas (OM, OT, OC e VHF).
+*Que a digitalização permita o pleno cumprimento dos fins sociais de todos os serviços radiofônicos previstos na Constituição e leis específicas brasileiras
+*A carta deve conter uma afirmação explícita de que emissoras comunitárias não devem ser discriminadas no processo de digitalização do espectro.
+*A decisão do padrão não é meramente técnica. É preciso apresentar claramente como a escolha do DRM representa uma decisão estratégica de política de desenvolvimento e integração com outros países. (Contexto BRICs)
+*Apresentar os aspectos sociais e econômicos envolvidos na escolha do padrão tecnológico
+*Destacar o menor consumo e energia como fator ecológico e econômico (tecnología verde)
+*Exclusão de tecnologias que necessitem de licenças e certificações que saiam da esfera pública.
+*Criação do fórum do SBRD, de filiação aberta, gestão democrática e com participação da academia (de forma multidisciplinar), dialogando com o fórum do SBTVD.
+*O rádio digital deve reforçar a redução da desigualdade social do país como um dos processos norteadores da decisão do padrão.
+*A digitalização do rádio pede uma nova lei de meios.
+*O SBRD deve permitir novas formas de transmissão de informação, permitindo a interatividade e novos serviços
+* Não faz sentido desenvolver um sistema do zero (reinventar a roda), recusando também a ideia de um sistema híbrido (aumento de royalty, complexifica e encarece a fabricação do receptor - exemplo europeu DAB/DRM)
+*Sugerir a criação de um Fundo para apoiar a pesquisa, desenvolvimento e implementação do SBRD (Ex: BNDES financia produção de audiovisual em alta-definição). Ênfase para o acesso das rádios comunitárias (baixa-potência) aos equipamentos digitais.
+
+Espectro Livre
+===========
+Considerando que a ideia de escassez do espectro não faz sentido no contexto digital...
+
+Alocação de faixas de frequência de uso não licenciado, em todas as bandas, para experimentação e liberdade de expressão.
+
+Explicitar faixas de frequência onde há possibilidade imediata de adoção do princípio do Espectro Livre (Faixa de 26MHz, canais de 2 a 4 do VHF, Ondas Tropicais e Ondas Médias).
+
+O Espectro Livre no contexto do rádio cognitivo e rádio definido por software: definir bitrate ótimo para compartilhamento do espectro (isonomia).
+
+Estabelecer critérios de uso (inspiração no rádio-amadorismo).
+
+Proporcionar a criação de redes mesh digitais, constituindo uma rede parelela que não depende da infra-estrutura comercial/proprietária (redes de telefonia móvel autônomas)
+
+Elencar possibilidades reais de uso do Espectro Livre (transmissão de eventos, livre expressão de cidadania,
+
+Desnecessidade de autorização prévia para pôr sinal no ar (tal como previsto no Art XIX Direitos Humanos 1948, Pacto de San José da Costa Rica 1969)
+
+Trazer as reflexões sobre Direito de Antena face ao Direito Ambiental (Celso Pacheco Antonio Fiorillo). Referência ao princípio federalista (Paulo Silveira). 
+
+Bens Comuns.
+
+O espectro livre entende se como um espaço complementar aos serviços radiofônicos estabelecido pela Lei com a visão de complementar o modelo de broadcasting e incentivar novos formatos de comunicação.
+
+Eh necessario definir alguma tecnologia para compartilhar o espectro livre? Ou deixar o mais aberto possivel mesmo?
+
+
+Metodologia
+===========
+
+Agenda:
+
+*Dia 27/11/2013: debate, troca de ideias, levantamento de tópicos.
+*Dia 28/11/2013:
+*Elaboração.
+*Consenso sobre a carta durante a mesa de encerramento.
+
+*Gravar partes selecionadas da carta para ser veiculada em Rádios.
+
+
+Referências
+===========
+
+*http://www.mc.gov.br/acoes-e-programas/redes-digitais-da-cidadania/273-lex/portarias/25477-portaria-n-290-de-marco-de-2010
+*http://juba.tvlivre.org/drm_paper.pdf
+
