@@ -1,0 +1,5 @@
+## ICECAST LIST TO PARSE FOR STREAMS
+http://radiolibre.co:8000/
+http://icecast.medialab-prado.es:8000/
+http://labomedia.org:8000/
+http://radio.dyne.org:8000/
